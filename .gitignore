@@ -2,7 +2,7 @@
 build
 
 *.iws
-*.iml
+
 package-lock.json
 yarn.lock
 
